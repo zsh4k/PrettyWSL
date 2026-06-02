@@ -1,0 +1,16 @@
+[submodule "wsl"]
+	path = wsl
+	url = https://github.com/zsh4k/WSL.git
+	shallow = true
+[submodule "kernel"]
+	path = kernel
+	url = https://github.com/zsh4k/WSL2-Linux-Kernel.git
+	shallow = true
+[submodule "wslg"]
+	path = wslg
+	url = https://github.com/zsh4k/wslg.git
+	shallow = true
+[submodule "docs"]
+	path = docs
+	url = https://github.com/zsh4k/WSL-1.git
+	shallow = true
